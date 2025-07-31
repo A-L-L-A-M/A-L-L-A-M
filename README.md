@@ -17,7 +17,7 @@ Oi! Eu sou o Alan, tenho 29 anos e moro em São Luís/MA. Sempre curti tecnologi
 </br>
 </br>
 
-🖥️ Tecnologias e Ferramentas: 
+Tecnologias e Ferramentas: 
 
 Tecnologias com as quais tive contato durante a faculdade e que despertaram em mim o interesse em seguir me aperfeiçoando constantemente
 
