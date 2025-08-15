@@ -5,7 +5,7 @@
 
 Hello, Devs!!
 
-Oi! Eu sou o Alan, tenho 29 anos e moro em São Luís/MA. Sempre curti tecnologia, e foi jogando videogame que comecei a me apaixonar por programação.
+Oi! Eu sou o Alan, tenho 26 anos e moro em São Luís/MA. Sempre curti tecnologia, e foi jogando videogame que comecei a me apaixonar por programação.
 
 </br>
 </br>
